@@ -45,6 +45,35 @@ a:hover {
     height: 100vh;
 }
 
+.body-flex {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#854C30, #371D2D);
+}
+
+.container-centered {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 40vw;
+    gap: 20px;
+}
+
+.container-centered > h2 {
+    color: #140C1C;
+    text-align: center;
+    line-height: 40px;
+}
+
+.container-centered > h2 > span {
+    color: rgb(194, 149, 67);
+}
+
 .container_left {
     width: 35%;
     min-width: 300px;

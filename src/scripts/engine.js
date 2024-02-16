@@ -190,7 +190,11 @@ async function drawSelectCards(index) {
 function init() {
     const bgm = document.getElementById("bgm");
     bgm.volume = 0.1;
-    bgm.play();
+    try {
+        bgm.play();
+    } catch (error) {
+        
+    }
     
     showHiddenCardImages(false);
 

@@ -7,3 +7,7 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual;
 - Funções limpas;
 - Organização de código.
+
+tarefas atuais:
+
+- [ ] solucionar BGM autoplay bloqueado no Chrome
