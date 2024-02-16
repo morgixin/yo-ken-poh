@@ -10,4 +10,4 @@ conceitos abordados:
 
 tarefas atuais:
 
-- [ ] solucionar BGM autoplay bloqueado no Chrome
+- [x] solucionar BGM autoplay bloqueado no Chrome
